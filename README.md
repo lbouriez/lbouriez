@@ -1,15 +1,14 @@
-# Hello World!, I'm Tobi, a Next.js dev from Berlin
+# Hello 👋!, I'm Laurent, a DevOps & Software Engineer
 
-👨🏼‍💻 find me also [here](https://tobimey.dev)<br> 👨🏼‍🚀 working as a full stack web developer since 2022 <br>🎬 content creation at [Tobi Mey](https://www.youtube.com/@tobi-mey)
+👨🏼‍🚀 Working as a DevOps Engineer from Montreal
 
 
 ### 💻 Tech Stack:
 
-Lets hold it simple, there is much more but these tools are what I use daily: 
+Let's keep it simple, there is much more but these tools are what I use daily:
 
-- Lang: Ts
-- Framework: Next.js
-- Styling: TailwindCSS & Shadcn
+- Languages: TypeScript, PowerShell, C#/.NET
+- DevOps & Infrastructure: Docker, Azure DevOps, CI/CD Pipelines, Infrastructure as Code
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake-dark.svg" />
