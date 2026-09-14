@@ -34,7 +34,11 @@ platforms and turn ideas into useful, thoughtfully designed products.
       <p>
         Available in English, French, Italian, and Arabic.
       </p>
-      <p><a href="https://kidhoot.com/"><strong>Explore Kidhoot</strong></a></p>
+      <p>
+        <a href="https://kidhoot.com/"><strong>Explore Kidhoot</strong></a>
+        ·
+        <a href="https://app.kidhoot.com/">Open the app</a>
+      </p>
     </td>
   </tr>
 </table>
