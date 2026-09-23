@@ -7,7 +7,7 @@ platforms and turn ideas into useful, thoughtfully designed products.
 
 <table>
   <tr>
-    <td width="50%" align="center" valign="top">
+    <td width="33%" align="center" valign="top">
       <a href="https://rekindle-app.com/">
         <img src="https://rekindle-app.com/img/logo.png" width="96" alt="ReKindle logo" />
       </a>
@@ -22,7 +22,7 @@ platforms and turn ideas into useful, thoughtfully designed products.
         <a href="https://app.rekindle-app.com/">Open the app</a>
       </p>
     </td>
-    <td width="50%" align="center" valign="top">
+    <td width="33%" align="center" valign="top">
       <a href="https://kidhoot.com/">
         <img src="https://kidhoot.com/img/logo.png" width="96" alt="Kidhoot logo" />
       </a>
@@ -40,11 +40,27 @@ platforms and turn ideas into useful, thoughtfully designed products.
         <a href="https://app.kidhoot.com/">Open the app</a>
       </p>
     </td>
+    <td width="33%" align="center" valign="top">
+      <a href="https://cadrora.com/">
+        <img src="https://cadrora.com/brand/cadrora-logo.png" width="96" alt="Cadrora logo" />
+      </a>
+      <h3><a href="https://cadrora.com/">Cadrora</a></h3>
+      <p>
+        An open-source, self-hosted photography website and gallery app for photographers
+        and families, with public or password-protected galleries and optional facial search.
+      </p>
+      <p>
+        <a href="https://cadrora.com/"><strong>Explore Cadrora</strong></a>
+        ·
+        <a href="https://cadrora.com/galleries">Open the app</a>
+      </p>
+    </td>
   </tr>
 </table>
 
-> Both products are actively developed in private repositories. The links above
-> lead to their public product experiences.
+> ReKindle and Kidhoot are actively developed in private repositories.
+> Cadrora is [open source](https://github.com/lbouriez/Cadrora). The links above
+> lead to each product's public experience.
 
 ## 💻 Tech stack
 
