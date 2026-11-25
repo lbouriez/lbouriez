@@ -46,13 +46,11 @@ platforms and turn ideas into useful, thoughtfully designed products.
       </a>
       <h3><a href="https://cadrora.com/">Cadrora</a></h3>
       <p>
-        An open-source, self-hosted photography website and gallery app for photographers
-        and families, with public or password-protected galleries and optional facial search.
+        An open-source photography website you can clone, customize, and self-host,
+        with public or password-protected galleries and optional facial search.
       </p>
       <p>
         <a href="https://cadrora.com/"><strong>Explore Cadrora</strong></a>
-        ·
-        <a href="https://cadrora.com/galleries">Open the app</a>
       </p>
     </td>
   </tr>
